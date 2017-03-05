@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: 
+Disallow: /assets/
+Disallow: CNAME
+Disallow: styles.bundle.css
+Disallow: styles.bundle.map
+Disallow: favicon.ico
+Disallow: vendor.bundle.js
+Disallow: vendor.bundle.map
+Disallow: slider.jpg
+Sitemap: http://heiyuki.me/sitemap.xml
