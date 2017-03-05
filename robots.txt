@@ -1,6 +1,6 @@
 User-agent: *
 Disallow: 
-Disallow: /assets/
+Disallow: /assets/setup-logos
 Disallow: CNAME
 Disallow: styles.bundle.css
 Disallow: styles.bundle.map
